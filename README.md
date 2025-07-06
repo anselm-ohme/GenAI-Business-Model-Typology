@@ -1,9 +1,10 @@
 🚀 Where Do They Fit? — GenAI Venture Taxonomy
+
 🧭 Introduction
+
 Welcome to the repository accompanying the paper:
 
 "Where Do They Fit? Categorizing Entrepreneurial Ventures in the Age of Generative Artificial Intelligence"
-Anselm Ohme, ESCP Business School, Berlin
 
 This repository provides the code, data, and visualizations related to the novel taxonomy framework for categorizing Generative AI (GenAI) ventures.
 
