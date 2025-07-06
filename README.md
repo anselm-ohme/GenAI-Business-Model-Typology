@@ -1,4 +1,5 @@
 Overview
+
 This repository accompanies the research paper:
 
 "Where Do They Fit? Categorizing Entrepreneurial Ventures in the Age of Generative Artificial Intelligence"
